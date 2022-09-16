@@ -1,0 +1,15 @@
+HTML5 - Dokumentum szerkezete
+CSS3 - megjelenés
+JS - ECMA-262
+
+HTML5 részei:
+-típus -> <!DOCTYPE html>
+-head - dokumentum kezelése -> <head></head>
+-body - megjelenítendő tartalom --> <body></body>
+
+<html lang="en"> --> az oldal alapértelmezet nyelve (pl.:languange="english"--> rövidítve) (angol)
+<h1-h6> címsorok
+<section> <div> <article> formázási, tartalmi egységek
+<p> egy bekezdés
+
+https://njszt.hu/hu/ecdl/modul/webszerkesztes
